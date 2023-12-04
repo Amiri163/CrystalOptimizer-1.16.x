@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "io.github.cdagaming.crystaloptimizer.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ClientConnectionMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
